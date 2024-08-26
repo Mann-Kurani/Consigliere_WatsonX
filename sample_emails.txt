@@ -1,191 +1,114 @@
-From: K Sai Sovit <ksaisovit@gmail.com>
-Subject: Term End Break Announcement
-Date: 2024-08-24 16:06:58
-Plain Text Content:
-Dear Students,
-
-This is to inform you about the upcoming term end break. The break will
-commence on *15th September* and will continue until *25th September*.
-
-Please make necessary arrangements for your travel and other activities
-during this period.
-
-We will resume regular classes on *26th September*.
-
-Thank you,
-
-Ravish Kumar
-
-Registrar
-
-Vijaybhoomi University
- 
---------------------------------------------------
-From: K Sai Sovit <ksaisovit@gmail.com>
-Subject: Project Deadline Reminder for Kush
-Date: 2024-08-24 16:04:41
-Plain Text Content:
-Dear Student,
-
-This is a friendly reminder about the upcoming deadline for your project in
-Convex Optimisation.
-
-*Deadline:* October 2, 2024
-
-Please ensure that your project is submitted by the deadline to avoid any
-penalties or delays in grading.
-
-If you have any questions or require additional assistance, please don't
-hesitate to contact me.
-
-Best regards,
-
-Saunak
-
-Faculty
-
-VSST
- 
---------------------------------------------------
-From: K Sai Sovit <ksaisovit@gmail.com>
-Subject: Attendance Issue
-Date: 2024-08-24 16:03:06
-Plain Text Content:
-Dear Mann,
-
-I am writing to inform you of a significant attendance issue that has come
-to my attention. Your frequent absence from class is causing concern.
-
-Please note that regular attendance is crucial for your academic success
-and participation in class activities. Your absence may have a negative
-impact on your understanding of the course material and your ability to
-contribute to class discussions.
-
-I would appreciate it if you could provide a valid reason for your absence
-as soon as possible. If there are any extenuating circumstances, please do
-not hesitate to contact me to discuss them.
-
-Thank you for your prompt attention to this matter.
-
-Sincerely,
-
-Kush
-
-Dean
-
-VSST
- 
---------------------------------------------------
-From: K Sai Sovit <ksaisovit@gmail.com>
-Subject: Urgent Meeting Tomorrow (2 PM) Regarding RI Presentation
-Date: 2024-08-24 15:58:01
-Plain Text Content:
-Dear Kush,
-
-This is a very urgent message regarding your Research Internship (RI)
-presentation.
-
-*Please be informed that there will be a mandatory meeting tomorrow,
-[Date], at 2 PM in [Location].*
-
-This meeting is crucial to discuss the final preparations for your RI
-presentation. Your attendance is absolutely essential.
-
-If you have any questions or concerns, please don't hesitate to reach out.
-
-Thank you for your prompt attention to this matter.
-
-Sincerely,
-
-Mann Kurani
-
-Faculty Mentor
- 
---------------------------------------------------
+k = [
+    {
+        'From': '''Mann Kurani <mkkurani1@gmail.com>''',
+        'Subject': '''Fwd: YOoo''',
+        'Date': '''2024-08-26 13:04:16''',
+        'Plain_Text_Content': '''---------- Forwarded message ---------
 From: Mann Kurani <mkkurani1@gmail.com>
-Subject: Huge End-of-Summer Sale – Up to 50% Off Everything!
-Date: 2024-08-24 15:57:56
-Plain Text Content:
-*Hi Alex,*
+Date: Sat, 24 Aug 2024 at 15:06
+Subject: YOoo
+To: projektkush@gmail.com <projektkush@gmail.com>
 
-The wait is over! Our biggest sale of the year is here, and you don’t want
-to miss it. Whether you're gearing up for the new semester or just looking
-to refresh your wardrobe, now’s the perfect time to shop.
-*What’s on Sale?*
 
-   - *Clothing:* Get up to 50% off on all apparel, including hoodies,
-   t-shirts, jeans, and more.
-   - *Accessories:* Bags, hats, and jewelry are all marked down—perfect for
-   completing your look.
-   - *Tech Gear:* Save on headphones, chargers, and other essentials to
-   keep you connected.
+Hello Nigga''',
+        'HTML_Content': '''No specific HTML content found.''',
+    },
+    {
+        'From': '''Mann Kurani <mkkurani1@gmail.com>''',
+        'Subject': '''Fwd: Urgent Important News''',
+        'Date': '''2024-08-26 13:04:13''',
+        'Plain_Text_Content': '''---------- Forwarded message ---------
+From: Mann Kurani <mkkurani1@gmail.com>
+Date: Sat, 24 Aug 2024 at 15:12
+Subject: Urgent Important News
+To: projektkush@gmail.com <projektkush@gmail.com>
 
-*How to Shop:*
 
-   - *In-Store:* Visit us at your local branch and enjoy hands-on shopping
-   with all the deals.
-   - *Online:* Can’t make it in? Shop online at www.greatdeals.com <#> and
-   use the code *SUMMER50* at checkout for your discount.
+Hello Dear,
+Give me 500 dollars urgent on this link. THank YOu.
+GFG
+<''',
+        'HTML_Content': '''No specific HTML content found.''',
+    },
+    {
+        'From': '''Mann Kurani <mkkurani1@gmail.com>''',
+        'Subject': '''Fwd: Urgent: Immediate Action Required on Your Research Paper Submission''',
+        'Date': '''2024-08-26 13:04:09''',
+        'Plain_Text_Content': '''---------- Forwarded message ---------
+From: Mann Kurani <mkkurani1@gmail.com>
+Date: Sat, 24 Aug 2024 at 15:52
+Subject: Urgent: Immediate Action Required on Your Research Paper Submission
+To: <projektkush@gmail.com>
 
-*Limited Time Only!*
 
-This sale won’t last long—deals end Sunday at midnight. Don’t wait until
-it’s too late; once these items are gone, they’re gone for good.
-*Free Shipping on Orders Over $50*
+*Dear Alex Johnson,*
 
-As an extra bonus, we’re offering free shipping on all online orders over
-$50. So fill up your cart and save even more!
+I hope this message finds you well. I’m writing to you with an urgent
+matter that requires your immediate attention.
 
-Happy shopping!
+It has come to my attention that your research paper submission is missing
+crucial references and a bibliography section. This must be revised and
+resubmitted before the final deadline tomorrow at 5:00 PM.
+
+Please take the necessary steps to address this situation as soon as
+possible. If you need assistance or have any questions, do not hesitate to
+reach out to me.
+
+It is important that this matter is resolved promptly to avoid any further
+complications.
+
+Thank you for your immediate attention to this matter.
 
 *Best regards,*
-The Great Deals Team
-shop@greatdeals.com
-(555) 765-4321
- 
---------------------------------------------------
+Dr. Emily Carter
+Professor of English Literature
+emily.carter@university.edu
+(555) 123-4567''',
+        'HTML_Content': '''No specific HTML content found.''',
+    },
+    {
+        'From': '''Mann Kurani <mkkurani1@gmail.com>''',
+        'Subject': '''Fwd: Action Required: Missing Information in Your Course Registration''',
+        'Date': '''2024-08-26 13:04:03''',
+        'Plain_Text_Content': '''---------- Forwarded message ---------
 From: Mann Kurani <mkkurani1@gmail.com>
-Subject: Limited Time Offer: 10% Off University-Branded Water Bottles!
-Date: 2024-08-24 15:57:12
-Plain Text Content:
-*Hi Alex,*
+Date: Sat, 24 Aug 2024 at 15:53
+Subject: Action Required: Missing Information in Your Course Registration
+To: <projektkush@gmail.com>
 
-Stay hydrated in style! For a limited time, you can get 10% off all
-university-branded water bottles at the campus bookstore.
-*Why You Should Care:*
 
-   - *Show Your School Spirit:* What better way to represent your
-   university than by sipping from a bottle with its logo?
-   - *Variety of Colors:* Choose from blue, green, or the ever-popular
-   clear!
-   - *Eco-Friendly:* Help reduce single-use plastic waste by investing in a
-   reusable bottle.
+*Dear Alex Johnson,*
 
-*How to Get Your Discount:*
+I hope this message finds you well. I’m writing to inform you of a minor
+issue that requires your attention.
 
-   1. Visit the campus bookstore or shop online at universitybookstore.edu
-   <#>.
-   2. Use the code *WATER10* at checkout.
-   3. Enjoy your new water bottle and your 10% savings!
+It appears that your course registration for the upcoming semester is
+missing an elective selection. To ensure your schedule is complete, please
+log in to the student portal and add your elective by Friday at 5:00 PM.
 
-*Hurry, Offer Ends Soon!*
+If you have any questions or need assistance, feel free to reach out to the
+registrar’s office.
 
-This amazing deal is only available until the end of the month, so don’t
-miss out. Stock up on university-branded gear while supplies last!
-
-But seriously, no pressure. It’s just a water bottle.
+Thank you for taking care of this matter.
 
 *Best regards,*
-Campus Bookstore Team
-Your University
-bookstore@university.edu
-(555) 123-9876
- 
---------------------------------------------------
+Dr. Emily Carter
+Academic Advisor
+emily.carter@university.edu
+(555) 123-4567''',
+        'HTML_Content': '''No specific HTML content found.''',
+    },
+    {
+        'From': '''Mann Kurani <mkkurani1@gmail.com>''',
+        'Subject': '''Fwd: Important Update: How to Properly Fold a T-Shirt''',
+        'Date': '''2024-08-26 13:03:56''',
+        'Plain_Text_Content': '''---------- Forwarded message ---------
 From: Mann Kurani <mkkurani1@gmail.com>
+Date: Sat, 24 Aug 2024 at 15:56
 Subject: Important Update: How to Properly Fold a T-Shirt
-Date: 2024-08-24 15:56:07
-Plain Text Content:
+To: <projektkush@gmail.com>
+
+
 *Hi Alex,*
 
 We know life can get busy, so we thought we’d share something truly
@@ -223,70 +146,282 @@ Until next time, stay folded!
 *Best regards,*
 The Totally Unnecessary Tips Team
 no-reply@pointlesstips.com
-(555) 987-6543
- 
---------------------------------------------------
+(555) 987-6543''',
+        'HTML_Content': '''No specific HTML content found.''',
+    },
+    {
+        'From': '''Mann Kurani <mkkurani1@gmail.com>''',
+        'Subject': '''Fwd: Limited Time Offer: 10% Off University-Branded Water Bottles!''',
+        'Date': '''2024-08-26 13:03:49''',
+        'Plain_Text_Content': '''---------- Forwarded message ---------
 From: Mann Kurani <mkkurani1@gmail.com>
-Subject: Action Required: Missing Information in Your Course Registration
-Date: 2024-08-24 15:53:12
-Plain Text Content:
-*Dear Alex Johnson,*
+Date: Sat, 24 Aug 2024 at 15:57
+Subject: Limited Time Offer: 10% Off University-Branded Water Bottles!
+To: <projektkush@gmail.com>
 
-I hope this message finds you well. I’m writing to inform you of a minor
-issue that requires your attention.
 
-It appears that your course registration for the upcoming semester is
-missing an elective selection. To ensure your schedule is complete, please
-log in to the student portal and add your elective by Friday at 5:00 PM.
+*Hi Alex,*
 
-If you have any questions or need assistance, feel free to reach out to the
-registrar’s office.
+Stay hydrated in style! For a limited time, you can get 10% off all
+university-branded water bottles at the campus bookstore.
+*Why You Should Care:*
 
-Thank you for taking care of this matter.
+   - *Show Your School Spirit:* What better way to represent your
+   university than by sipping from a bottle with its logo?
+   - *Variety of Colors:* Choose from blue, green, or the ever-popular
+   clear!
+   - *Eco-Friendly:* Help reduce single-use plastic waste by investing in a
+   reusable bottle.
+
+*How to Get Your Discount:*
+
+   1. Visit the campus bookstore or shop online at universitybookstore.edu
+   <#m_8927436279451916770_>.
+   2. Use the code *WATER10* at checkout.
+   3. Enjoy your new water bottle and your 10% savings!
+
+*Hurry, Offer Ends Soon!*
+
+This amazing deal is only available until the end of the month, so don’t
+miss out. Stock up on university-branded gear while supplies last!
+
+But seriously, no pressure. It’s just a water bottle.
 
 *Best regards,*
-Dr. Emily Carter
-Academic Advisor
-emily.carter@university.edu
-(555) 123-4567
- 
---------------------------------------------------
+Campus Bookstore Team
+Your University
+bookstore@university.edu
+(555) 123-9876''',
+        'HTML_Content': '''No specific HTML content found.''',
+    },
+    {
+        'From': '''Mann Kurani <mkkurani1@gmail.com>''',
+        'Subject': '''Fwd: Huge End-of-Summer Sale – Up to 50% Off Everything!''',
+        'Date': '''2024-08-26 13:03:40''',
+        'Plain_Text_Content': '''---------- Forwarded message ---------
 From: Mann Kurani <mkkurani1@gmail.com>
-Subject: Urgent: Immediate Action Required on Your Research Paper Submission
-Date: 2024-08-24 15:52:05
-Plain Text Content:
-*Dear Alex Johnson,*
+Date: Sat, 24 Aug 2024 at 15:57
+Subject: Huge End-of-Summer Sale – Up to 50% Off Everything!
+To: <projektkush@gmail.com>
 
-I hope this message finds you well. I’m writing to you with an urgent
-matter that requires your immediate attention.
 
-It has come to my attention that your research paper submission is missing
-crucial references and a bibliography section. This must be revised and
-resubmitted before the final deadline tomorrow at 5:00 PM.
+*Hi Alex,*
 
-Please take the necessary steps to address this situation as soon as
-possible. If you need assistance or have any questions, do not hesitate to
-reach out to me.
+The wait is over! Our biggest sale of the year is here, and you don’t want
+to miss it. Whether you're gearing up for the new semester or just looking
+to refresh your wardrobe, now’s the perfect time to shop.
+*What’s on Sale?*
 
-It is important that this matter is resolved promptly to avoid any further
-complications.
+   - *Clothing:* Get up to 50% off on all apparel, including hoodies,
+   t-shirts, jeans, and more.
+   - *Accessories:* Bags, hats, and jewelry are all marked down—perfect for
+   completing your look.
+   - *Tech Gear:* Save on headphones, chargers, and other essentials to
+   keep you connected.
 
-Thank you for your immediate attention to this matter.
+*How to Shop:*
+
+   - *In-Store:* Visit us at your local branch and enjoy hands-on shopping
+   with all the deals.
+   - *Online:* Can’t make it in? Shop online at www.greatdeals.com
+   <#m_7502740153022169297_> and use the code *SUMMER50* at checkout for
+   your discount.
+
+*Limited Time Only!*
+
+This sale won’t last long—deals end Sunday at midnight. Don’t wait until
+it’s too late; once these items are gone, they’re gone for good.
+*Free Shipping on Orders Over $50*
+
+As an extra bonus, we’re offering free shipping on all online orders over
+$50. So fill up your cart and save even more!
+
+Happy shopping!
 
 *Best regards,*
-Dr. Emily Carter
-Professor of English Literature
-emily.carter@university.edu
-(555) 123-4567
- 
---------------------------------------------------
-From: Mann Kurani <mkkurani1@gmail.com>
-Subject: Urgent Important News
-Date: 2024-08-24 15:12:58
-Plain Text Content:
-Hello Dear,
-Give me 500 dollars urgent on this link. THank YOu.
-GFG
-<
- 
---------------------------------------------------
+The Great Deals Team
+shop@greatdeals.com
+(555) 765-4321''',
+        'HTML_Content': '''No specific HTML content found.''',
+    },
+    {
+        'From': '''Medium Daily Digest <noreply@medium.com>''',
+        'Subject': '''Single Women Can’t Win | Y.L. Wolfe in Liberty''',
+        'Date': '''2024-08-26 07:40:00''',
+        'Plain_Text_Content': '''Stories for Projekt Kush
+@projektkush (
+·Become a member (
+
+Today's highlights
+
+Y.L. Wolfe (
+inLiberty (
+
+Single Women Can't Win
+We shame women for being single - and criticize those…
+
+7 min read
+368
+7
+
+Sai Parvathaneni (
+inTowards Dev (
+
+Data Engineering with Kubernetes: End-to-End Data Pipeline
+In this article, we dive into setting up Kubernetes…
+
+12 min read
+132
+3
+
+Greece Aberdeen (
+
+My 7 Income Sources With One AI Tool
+this is my story
+
+5 min read
+2.7K
+70
+
+Bernard Builds (
+inBetter Marketing (
+
+AI Is Running My SEO Blog. Here's the Growth So Far
+Half a million impressions, thousands of clicks, and…
+
+6 min read
+3.7K
+195
+
+Benedict Neo (
+inbitgrit Data Science Publication (
+
+Linear Algebra Concepts Every Data Scientist Should Know
+Do you know Linear Algebra well enough?
+
+10 min read
+1.7K
+10
+
+Lazar Gugleta (
+inTowards AI (
+
+Why Polars Destroys Pandas in All Possible Ways for Data Scientists?
+One of the first Data Science libraries, Pandas, has…
+
+5 min read
+542
+7
+
+Piero Paialunga (
+inTowards Data Science (
+
+Feature Extraction for Time Series, from Theory to Practice, with Python
+Here's everything you need to know when extracting…
+
+10 min read
+210
+
+Ignacio de Gregorio (
+
+Google Has Finally Dethroned ChatGPT
+They Finally Did It
+
+10 min read
+7.1K
+180
+
+Mark Ellis (
+inMac O'Clock (
+
+If AirPods Pro Aren't Expensive Enough - Try These
+The Bowers & Wilkins Pi8 are here!
+
+7 min read
+178
+2
+
+Luay Rahil (
+inAll Things Work (
+
+7 Hacks to Get Unstuck, According to New Research
+7 research-backed hacks to break free from your rut
+
+7 min read
+195
+3
+
+Will Lockett (
+inPredict (
+
+This Fatal Flaw Could Kill The AI Industry
+The maths isn't adding up.
+
+5 min read
+2.3K
+33
+
+Ignacio de Gregorio (
+inTowards AI (
+
+HumanPlus: Robots That Imitate You
+Is Shadowing the Real Unlocker?
+
+8 min read
+101
+3
+
+Julio Vincent Gambuto (
+
+Nope, it's not just about email
+
+4 min read
+78
+
+Ransaka Ravihara (
+
+Demystifying LoRA Fine Tuning
+Everything you need to learn about LoRA fine-tuning…
+
+5 min read
+17
+
+Shaw Talebi (
+inTowards Data Science (
+
+How to Build an LLM from Scratch
+Data Curation, Transformers, Training at Scale, and…
+
+16 min read
+1.6K
+18
+
+See more of what you like and less of what you don't.
+Control your recommendations (
+
+Read from anywhere.
+
+Sent by Medium (
+·Medium, 548 Market St, PMB 42061, San Francisco, CA 94104
+ from this type of email·Switch to the Weekly Digest (
+·Careers (
+·Help Center (
+·Privacy Policy (
+·Terms of service (''',
+        'HTML_Content': '''No specific HTML content found.''',
+    },
+    {
+        'From': '''Harris from SurveySparrow <harris@surveysparrow.com>''',
+        'Subject': '''Your trial has expired!''',
+        'Date': '''2024-08-26 04:38:08''',
+        'Plain_Text_Content': '''''',
+        'HTML_Content': '''No specific HTML content found.''',
+    },
+    {
+        'From': '''SurveySparrow <info@surveysparrow.com>''',
+        'Subject': '''Your Account Update: New Email Domains Issued on Account Downgrade''',
+        'Date': '''2024-08-26 04:38:07''',
+        'Plain_Text_Content': '''''',
+        'HTML_Content': '''No specific HTML content found.''',
+    },
+]

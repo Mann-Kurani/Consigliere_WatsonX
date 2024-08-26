@@ -1,21 +1,21 @@
-from simplegmail import Gmail
-from simplegmail.query import construct_query
-from datetime import datetime, timedelta
+# from simplegmail import Gmail
+# from simplegmail.query import construct_query
+# from datetime import datetime, timedelta
 
-# Initialize Gmail client
-gmail = Gmail()
+# # Initialize Gmail client
+# gmail = Gmail()
 
-# Calculate the date and time for 24 hours ago
-yesterday = datetime.now() - timedelta(days=1)
+# # Calculate the date and time for 24 hours ago
+# yesterday = datetime.now() - timedelta(days=1)
 
-# Define query parameters for emails received in the last 24 hours
-query_params = {
-    "newer_than": (1, "day")
-      # Query for emails newer than 1 day
-}
+# # Define query parameters for emails received in the last 24 hours
+# query_params = {
+#     "newer_than": (1, "day")
+#       # Query for emails newer than 1 day
+# }
 
-# # Fetch messages from the inbox received in the last 24 hours
-messages = gmail.get_unread_messages(query=construct_query(query_params))
+# # # Fetch messages from the inbox received in the last 24 hours
+# messages = gmail.get_unread_messages(query=construct_query(query_params))
 
 # # Iterate over each message and print details
 # for message in messages:
